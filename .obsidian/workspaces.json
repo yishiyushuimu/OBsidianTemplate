@@ -1,0 +1,791 @@
+{
+  "workspaces": {
+    "默认工作分区": {
+      "main": {
+        "id": "f98b38695e39ecf3",
+        "type": "split",
+        "children": [
+          {
+            "id": "0bb3538ea4ec283b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2b10c79b0083c3f7",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9d185a1302481955",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "211思想汇报/思想汇报2023-03.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c24f0225c4f53b20",
+        "type": "split",
+        "children": [
+          {
+            "id": "c20be80eee71fb8c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5bf6c29b23894ac1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "349deca3afd1c1d1",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a260166ca1638e40",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "42a405a9d4aac77b",
+        "type": "split",
+        "children": [
+          {
+            "id": "74c591fdd3b41111",
+            "type": "tabs",
+            "dimension": 31.1046511627907,
+            "children": [
+              {
+                "id": "7f825fe281e4bd4a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "211思想汇报/思想汇报2023-03.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6820ba4b3cb7b245",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "211思想汇报/思想汇报2023-03.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3b033e9a49a23447",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "211思想汇报/思想汇报2023-03.md"
+                  }
+                }
+              },
+              {
+                "id": "a6346dc0de5b7465",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "86a6b4d94c010a79",
+            "type": "tabs",
+            "dimension": 34.593023255813954,
+            "children": [
+              {
+                "id": "2e6f591670252a00",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "0bfe8c3d21439cdc",
+            "type": "tabs",
+            "dimension": 34.30232558139535,
+            "children": [
+              {
+                "id": "6cb89ae41beb3673",
+                "type": "leaf",
+                "state": {
+                  "type": "online.larslockefeer.obsidian-plugin-todo",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 387.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "workspaces:管理工作区布局": false,
+          "audio-recorder:开始/结束录音": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "command-palette:打开命令面板": false
+        }
+      },
+      "active": "6cb89ae41beb3673"
+    },
+    "纯记录": {
+      "main": {
+        "id": "f98b38695e39ecf3",
+        "type": "split",
+        "children": [
+          {
+            "id": "0bb3538ea4ec283b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2b10c79b0083c3f7",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9d185a1302481955",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "211思想汇报/思想汇报2023-03.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c24f0225c4f53b20",
+        "type": "split",
+        "children": [
+          {
+            "id": "c20be80eee71fb8c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5bf6c29b23894ac1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "349deca3afd1c1d1",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a260166ca1638e40",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "42a405a9d4aac77b",
+        "type": "split",
+        "children": [
+          {
+            "id": "74c591fdd3b41111",
+            "type": "tabs",
+            "dimension": 31.1046511627907,
+            "children": [
+              {
+                "id": "7f825fe281e4bd4a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "211思想汇报/思想汇报2023-03.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6820ba4b3cb7b245",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "211思想汇报/思想汇报2023-03.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3b033e9a49a23447",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "211思想汇报/思想汇报2023-03.md"
+                  }
+                }
+              },
+              {
+                "id": "a6346dc0de5b7465",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "86a6b4d94c010a79",
+            "type": "tabs",
+            "dimension": 34.593023255813954,
+            "children": [
+              {
+                "id": "2e6f591670252a00",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "0bfe8c3d21439cdc",
+            "type": "tabs",
+            "dimension": 34.30232558139535,
+            "children": [
+              {
+                "id": "6cb89ae41beb3673",
+                "type": "leaf",
+                "state": {
+                  "type": "online.larslockefeer.obsidian-plugin-todo",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 387.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "workspaces:管理工作区布局": false,
+          "audio-recorder:开始/结束录音": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "command-palette:打开命令面板": false
+        }
+      },
+      "active": "5bf6c29b23894ac1"
+    },
+    "分屏纯单页": {
+      "main": {
+        "id": "f98b38695e39ecf3",
+        "type": "split",
+        "children": [
+          {
+            "id": "6ca4d4651aea9e65",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "82a09c6b5e600e78",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "毕业设计/汇报/1.一次汇报.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c24f0225c4f53b20",
+        "type": "split",
+        "children": [
+          {
+            "id": "c20be80eee71fb8c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5bf6c29b23894ac1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "349deca3afd1c1d1",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a260166ca1638e40",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "42a405a9d4aac77b",
+        "type": "split",
+        "children": [
+          {
+            "id": "74c591fdd3b41111",
+            "type": "tabs",
+            "dimension": 30.784123910939016,
+            "children": [
+              {
+                "id": "7f825fe281e4bd4a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "毕业设计/汇报/1.一次汇报.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6820ba4b3cb7b245",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "毕业设计/汇报/1.一次汇报.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3b033e9a49a23447",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "毕业设计/汇报/1.一次汇报.md"
+                  }
+                }
+              },
+              {
+                "id": "a6346dc0de5b7465",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "86a6b4d94c010a79",
+            "type": "tabs",
+            "dimension": 36.59244917715392,
+            "children": [
+              {
+                "id": "2e6f591670252a00",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "131958d391f83676",
+            "type": "tabs",
+            "dimension": 32.62342691190707,
+            "children": [
+              {
+                "id": "b2dea9b853eb3546",
+                "type": "leaf",
+                "state": {
+                  "type": "online.larslockefeer.obsidian-plugin-todo",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 387.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "workspaces:管理工作区布局": false,
+          "audio-recorder:开始/结束录音": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "command-palette:打开命令面板": false
+        }
+      },
+      "active": "5bf6c29b23894ac1"
+    },
+    "二分文档": {
+      "main": {
+        "id": "f98b38695e39ecf3",
+        "type": "split",
+        "children": [
+          {
+            "id": "fa43b775272cf93b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5ed891ec68964dba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "毕业设计/开题报告/3参考文献管理.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4f6e0564ec4648a4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "毕业设计/开题报告/2任务书大纲翻译.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "5339fde7f72c0133",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c3ac394d7cc97fbb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "毕业设计/开题报告/5研究进展.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c24f0225c4f53b20",
+        "type": "split",
+        "children": [
+          {
+            "id": "c20be80eee71fb8c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5bf6c29b23894ac1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "349deca3afd1c1d1",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a260166ca1638e40",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 233.5
+      },
+      "right": {
+        "id": "42a405a9d4aac77b",
+        "type": "split",
+        "children": [
+          {
+            "id": "74c591fdd3b41111",
+            "type": "tabs",
+            "dimension": 50.41322314049586,
+            "children": [
+              {
+                "id": "7f825fe281e4bd4a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "毕业设计/开题报告/5研究进展.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6820ba4b3cb7b245",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "毕业设计/开题报告/5研究进展.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3b033e9a49a23447",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "毕业设计/开题报告/5研究进展.md"
+                  }
+                }
+              },
+              {
+                "id": "a6346dc0de5b7465",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "6cb89ae41beb3673",
+                "type": "leaf",
+                "state": {
+                  "type": "online.larslockefeer.obsidian-plugin-todo",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "86a6b4d94c010a79",
+            "type": "tabs",
+            "dimension": 49.58677685950413,
+            "children": [
+              {
+                "id": "2e6f591670252a00",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 307.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "workspaces:管理工作区布局": false,
+          "audio-recorder:开始/结束录音": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "command-palette:打开命令面板": false
+        }
+      },
+      "active": "6cb89ae41beb3673"
+    }
+  },
+  "active": "纯记录"
+}

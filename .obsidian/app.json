@@ -1,0 +1,13 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "未分类",
+  "attachmentFolderPath": "附件资源",
+  "showLineNumber": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

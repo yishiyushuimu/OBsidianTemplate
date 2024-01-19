@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "f98b38695e39ecf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ac96bd29773b61d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f93e308361ae87f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ToDo List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c24f0225c4f53b20",
+    "type": "split",
+    "children": [
+      {
+        "id": "c20be80eee71fb8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bf6c29b23894ac1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "349deca3afd1c1d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a260166ca1638e40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "42a405a9d4aac77b",
+    "type": "split",
+    "children": [
+      {
+        "id": "74c591fdd3b41111",
+        "type": "tabs",
+        "dimension": 31.104651162790695,
+        "children": [
+          {
+            "id": "7f825fe281e4bd4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ToDo List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6820ba4b3cb7b245",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ToDo List.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b033e9a49a23447",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ToDo List.md"
+              }
+            }
+          },
+          {
+            "id": "a6346dc0de5b7465",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "86a6b4d94c010a79",
+        "type": "tabs",
+        "dimension": 34.593023255813954,
+        "children": [
+          {
+            "id": "2e6f591670252a00",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0bfe8c3d21439cdc",
+        "type": "tabs",
+        "dimension": 34.30232558139535,
+        "children": [
+          {
+            "id": "6cb89ae41beb3673",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0f93e308361ae87f",
+  "lastOpenFiles": [
+    "SomeIdeas.md",
+    "0文件夹/text.md",
+    "日记/2024-01-19-周五.md",
+    "日记",
+    "附件资源/Pasted image 20240119103915.png",
+    "附件资源/share_15b5c826f47aa42cc38543c0e93129de.png",
+    "附件资源/Pasted image 20231224203246.png",
+    "附件资源/Pasted image 20231224163247.png",
+    "附件资源/Pasted image 20231218231311.png",
+    "附件资源/Pasted image 20231125145657.png",
+    "附件资源/Pasted image 20231107130937.png",
+    "附件资源/Pasted image 20231031100631.png",
+    "附件资源/Pasted image 20231011193808.png",
+    "附件资源/Pasted image 20231011193731.png",
+    "附件资源",
+    "0文件夹",
+    "模板/日记模板.md",
+    "ToDo List.md",
+    "认识复杂的世界/政治体系",
+    "毕业设计/开题报告/5研究进展.md",
+    "认识复杂的世界/序言.md",
+    "认识复杂的世界",
+    "毕业设计/开题报告/00开题报告.md",
+    "毕业设计/开题报告/3参考文献管理.md",
+    "毕业设计/开题报告/2任务书大纲翻译.md",
+    "毕业设计/开题报告/0自问自答.md",
+    "毕业设计/开题报告/3.1任务书理解——多晶材料均质行为的数值估计.md",
+    "备忘手册/RK R75快捷键.md",
+    "备忘手册",
+    "281.1经典有限元分析及其应用/1.2如何求解微分方程.md",
+    "毕业设计/开题报告/00毕设选题修改.md",
+    "毕业设计/开题报告/4图书管理.md",
+    "毕业设计/开题报告/研究进展/5.1阅读文献.md",
+    "毕业设计/开题报告/技术名词理解/upscaling升尺度.md",
+    "毕业设计/开题报告/技术名词理解/微观结构生成.md",
+    "毕业设计/开题报告/技术名词理解/RVE.md",
+    "毕业设计/汇报/1.一次汇报.md",
+    "毕业设计/技术路线.md",
+    "毕业设计/开题报告/研究进展",
+    "日记/2023-12-11-周一.md",
+    "日记/2023-11-07-周二.md",
+    "日记/2023-10-19-周一.md",
+    "日记/2023-10-08-周日.md",
+    "my_Lib",
+    "毕业设计/开题报告/未命名",
+    "毕业设计/开题报告/技术名词理解"
+  ]
+}
